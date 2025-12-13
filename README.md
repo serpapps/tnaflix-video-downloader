@@ -1,10 +1,18 @@
-# tnaflix-video-downloader
+# TNAFlix Video Downloader App (Browser Extension for Chrome, Firefox, Edge, Brave, Arc, Safari)
 
-This repository is being set up. README will be auto-generated soon.
+A browser extension that adds a download button to videos to easily download videos for convenient offline viewing.
 
-## Links
-- [Product Page](https://serp.ly/tflix-downloader)
-- [GitHub Pages](https://serpapps.github.io/tnaflix-video-downloader)
+- Download high-quality videos with one click
+- Save your favorite adult content for unlimited offline access anytime, anywhere
+- Create a personal library of adult entertainment that you own forever
+- Never lose access to premium content again - backup everything locally
+
+## Resources
+
+- [Repository](https://github.com/serpapps/tnaflix-downloader)
+- [Gist](https://gist.github.com/devinschumacher/8f072691ff4a4a6adf6f450a30377f96)
+- [How to download tnaflix videos]()
+
 
 ---
 
