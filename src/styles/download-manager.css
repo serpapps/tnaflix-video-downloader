@@ -1,0 +1,6 @@
+/* Basic stylesheet for TNAFlix Download Manager (parity with PornHub) */
+#tnaflix-download-manager {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#tnaflix-download-manager .cancel-download-btn:hover { background-color: var(--bg-darker); }
+#downloads-container { scrollbar-width: thin; }
